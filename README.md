@@ -1,4 +1,4 @@
-#**Hypothesis Testing with Python**
+# **Hypothesis Testing with Python**
 
 **Analysis of Variance (ANOVA) Overview and Activity**
 
